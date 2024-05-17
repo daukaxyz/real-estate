@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    padding: 100px;
+}
+.container button{
+    padding: 15px 40px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    transition: all 1.5s ;
+}
+.container button:hover{
+    background-color: rgb(15, 103, 145);
+}
